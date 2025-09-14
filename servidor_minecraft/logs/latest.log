@@ -228,3 +228,23 @@
 [21:33:18] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
 [21:33:26] [Server thread/INFO]: Made Gegul a server operator
 [21:33:29] [Server thread/INFO]: [Gegul: Set own game mode to Creative Mode]
+[21:35:49] [Server thread/WARN]: Gegul moved too quickly! 8.142719318738898,0.0,7.19892880525137
+[21:36:23] [Server thread/INFO]: Gegul lost connection: Disconnected
+[21:36:23] [Server thread/INFO]: Gegul left the game
+[21:36:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:36:32] [Server thread/INFO]: shutdown<--[HERE]
+[21:36:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:36:46] [Server thread/INFO]: shutdown<--[HERE]
+[21:36:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:36:49] [Server thread/INFO]: exit<--[HERE]
+[21:37:09] [Server thread/INFO]: Stopping the server
+[21:37:09] [Server thread/INFO]: Stopping server
+[21:37:09] [Server thread/INFO]: Saving players
+[21:37:09] [Server thread/INFO]: Saving worlds
+[21:37:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:37:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:37:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:37:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:37:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:37:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:37:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
