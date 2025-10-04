@@ -1,5 +1,11 @@
 {
   "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:basic_plate"
+      }
+    },
     "has_white_concrete": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -8,12 +14,6 @@
             "items": "minecraft:white_concrete"
           }
         ]
-      }
-    },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "pfm:basic_plate"
       }
     }
   },

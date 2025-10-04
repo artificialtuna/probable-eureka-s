@@ -1,5 +1,11 @@
 {
   "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:cherry_herringbone_planks"
+      }
+    },
     "has_wood_slabs": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -8,12 +14,6 @@
             "items": "minecraft:cherry_slab"
           }
         ]
-      }
-    },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "pfm:cherry_herringbone_planks"
       }
     }
   },

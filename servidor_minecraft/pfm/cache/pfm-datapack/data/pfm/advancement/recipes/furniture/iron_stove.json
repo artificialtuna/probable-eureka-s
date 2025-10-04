@@ -1,11 +1,5 @@
 {
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "pfm:iron_stove"
-      }
-    },
     "has_iron_ingot": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -14,6 +8,12 @@
             "items": "minecraft:iron_ingot"
           }
         ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:iron_stove"
       }
     }
   },

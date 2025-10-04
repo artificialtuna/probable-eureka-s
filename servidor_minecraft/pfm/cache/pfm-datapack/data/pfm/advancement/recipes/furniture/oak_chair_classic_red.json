@@ -1,5 +1,11 @@
 {
   "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:oak_chair_classic_red"
+      }
+    },
     "oak_chair_classic_red": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -8,12 +14,6 @@
             "items": "minecraft:red_wool"
           }
         ]
-      }
-    },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "pfm:oak_chair_classic_red"
       }
     }
   },

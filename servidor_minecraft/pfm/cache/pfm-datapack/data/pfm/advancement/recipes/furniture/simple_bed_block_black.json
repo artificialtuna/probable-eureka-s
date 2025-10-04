@@ -1,11 +1,5 @@
 {
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "pfm:simple_bed_block_black"
-      }
-    },
     "has_workbench": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -14,6 +8,12 @@
             "items": "pfm:working_table"
           }
         ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:simple_bed_block_black"
       }
     }
   },
