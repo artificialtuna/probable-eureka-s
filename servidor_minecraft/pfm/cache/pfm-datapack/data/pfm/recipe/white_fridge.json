@@ -1,0 +1,18 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:white_fridge",
+    "count": 1
+  },
+  "ingredients": [
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:chest"
+  ],
+  "type": "pfm:simple_furniture"
+}

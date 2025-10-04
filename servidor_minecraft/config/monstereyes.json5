@@ -1,0 +1,9 @@
+{
+	"defaultFieldOfView": 120.0,
+	"perMonsterFieldOfView": {
+		"minecraft:skeleton": 110.0,
+		"minecraft:zombie": 120.0,
+		"minecraft:creeper": 120.0
+	},
+	"defaultBackstabDamageMultiplier": 1.3
+}

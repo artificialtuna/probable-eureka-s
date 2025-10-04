@@ -1,0 +1,16 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:light_gray_simple_sofa",
+    "count": 2
+  },
+  "ingredients": [
+    "minecraft:light_gray_wool",
+    "minecraft:light_gray_wool",
+    "minecraft:oak_log",
+    "minecraft:oak_log",
+    "minecraft:oak_log",
+    "minecraft:oak_log"
+  ],
+  "type": "pfm:simple_furniture"
+}

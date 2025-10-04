@@ -1,0 +1,16 @@
+{
+  "group": " ",
+  "result": {
+    "id": "pfm:mesh_trashcan",
+    "count": 1
+  },
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:ender_pearl",
+    "minecraft:iron_bars",
+    "minecraft:iron_bars",
+    "minecraft:iron_bars",
+    "minecraft:iron_bars"
+  ],
+  "type": "pfm:simple_furniture"
+}

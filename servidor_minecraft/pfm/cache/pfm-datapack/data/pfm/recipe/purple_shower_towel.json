@@ -1,0 +1,16 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:purple_shower_towel",
+    "count": 2
+  },
+  "ingredients": [
+    "minecraft:purple_wool",
+    "minecraft:purple_wool",
+    "minecraft:purple_wool",
+    "minecraft:purple_wool",
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete"
+  ],
+  "type": "pfm:simple_furniture"
+}

@@ -1,0 +1,19 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:basic_plate",
+    "count": 4
+  },
+  "ingredients": [
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:item_frame",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete"
+  ],
+  "type": "pfm:simple_furniture"
+}

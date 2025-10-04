@@ -1,0 +1,14 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:basic_cutlery",
+    "count": 4
+  },
+  "ingredients": [
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete"
+  ],
+  "type": "pfm:simple_furniture"
+}

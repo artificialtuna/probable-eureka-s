@@ -1,0 +1,19 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:white_stove",
+    "count": 1
+  },
+  "ingredients": [
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:furnace"
+  ],
+  "type": "pfm:simple_furniture"
+}

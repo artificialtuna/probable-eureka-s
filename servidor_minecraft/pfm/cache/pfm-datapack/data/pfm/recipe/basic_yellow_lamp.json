@@ -1,0 +1,51 @@
+{
+  "result": {
+    "outputClass": "BasicLampBlock",
+    "components": {
+      "pfm:color": "yellow"
+    }
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:pale_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "cinderscapes:scorched",
+    "cinderscapes:umbral",
+    "fishofthieves:coconut",
+    "biomesoplenty:fir",
+    "biomesoplenty:pine",
+    "biomesoplenty:maple",
+    "biomesoplenty:redwood",
+    "biomesoplenty:mahogany",
+    "biomesoplenty:jacaranda",
+    "biomesoplenty:palm",
+    "biomesoplenty:willow",
+    "biomesoplenty:dead",
+    "biomesoplenty:magic",
+    "biomesoplenty:umbran",
+    "biomesoplenty:hellbark",
+    "biomesoplenty:empyreal"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      "minecraft:yellow_wool",
+      "minecraft:yellow_wool",
+      "minecraft:yellow_wool",
+      "minecraft:torch",
+      "minecraft:redstone"
+    ],
+    "variantChildren": {
+      "stripped_log": 2
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

@@ -1,0 +1,15 @@
+{
+  "group": "lighting",
+  "result": {
+    "id": "pfm:glass_modern_pendant",
+    "count": 4
+  },
+  "ingredients": [
+    "minecraft:white_stained_glass",
+    "minecraft:white_stained_glass",
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete",
+    "pfm:simple_light"
+  ],
+  "type": "pfm:simple_furniture"
+}

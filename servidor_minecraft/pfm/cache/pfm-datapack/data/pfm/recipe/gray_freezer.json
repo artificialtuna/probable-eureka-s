@@ -1,0 +1,19 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:gray_freezer",
+    "count": 1
+  },
+  "ingredients": [
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:redstone",
+    "minecraft:redstone"
+  ],
+  "type": "pfm:simple_furniture"
+}

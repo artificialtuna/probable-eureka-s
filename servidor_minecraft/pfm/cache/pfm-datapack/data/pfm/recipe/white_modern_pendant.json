@@ -1,0 +1,15 @@
+{
+  "group": "lighting",
+  "result": {
+    "id": "pfm:white_modern_pendant",
+    "count": 4
+  },
+  "ingredients": [
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete",
+    "pfm:simple_light"
+  ],
+  "type": "pfm:simple_furniture"
+}

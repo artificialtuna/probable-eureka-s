@@ -1,0 +1,19 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:kitchen_stovetop",
+    "count": 1
+  },
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:flint_and_steel"
+  ],
+  "type": "pfm:simple_furniture"
+}

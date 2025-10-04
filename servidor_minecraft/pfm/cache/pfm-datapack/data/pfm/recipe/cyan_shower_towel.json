@@ -1,0 +1,16 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:cyan_shower_towel",
+    "count": 2
+  },
+  "ingredients": [
+    "minecraft:cyan_wool",
+    "minecraft:cyan_wool",
+    "minecraft:cyan_wool",
+    "minecraft:cyan_wool",
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete"
+  ],
+  "type": "pfm:simple_furniture"
+}

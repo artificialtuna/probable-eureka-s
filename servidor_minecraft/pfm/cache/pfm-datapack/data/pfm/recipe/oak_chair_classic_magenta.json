@@ -1,0 +1,16 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:oak_chair_classic_magenta",
+    "count": 4
+  },
+  "ingredients": [
+    "minecraft:oak_log",
+    "minecraft:oak_log",
+    "minecraft:oak_log",
+    "minecraft:oak_log",
+    "minecraft:magenta_wool",
+    "minecraft:magenta_wool"
+  ],
+  "type": "pfm:simple_furniture"
+}

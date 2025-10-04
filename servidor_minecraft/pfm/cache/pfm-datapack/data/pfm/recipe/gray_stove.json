@@ -1,0 +1,19 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:gray_stove",
+    "count": 1
+  },
+  "ingredients": [
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:gray_concrete",
+    "minecraft:furnace"
+  ],
+  "type": "pfm:simple_furniture"
+}

@@ -1,0 +1,19 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:wall_toilet_paper",
+    "count": 1
+  },
+  "ingredients": [
+    "minecraft:stone",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper"
+  ],
+  "type": "pfm:simple_furniture"
+}

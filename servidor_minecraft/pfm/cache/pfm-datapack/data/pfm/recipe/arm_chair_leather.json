@@ -1,0 +1,16 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:arm_chair_leather",
+    "count": 2
+  },
+  "ingredients": [
+    "pfm:leather_block",
+    "pfm:leather_block",
+    "pfm:leather_block",
+    "pfm:leather_block",
+    "minecraft:oak_log",
+    "minecraft:oak_log"
+  ],
+  "type": "pfm:simple_furniture"
+}

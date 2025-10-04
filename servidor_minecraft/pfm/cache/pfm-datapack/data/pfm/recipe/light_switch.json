@@ -1,0 +1,19 @@
+{
+  "group": " ",
+  "result": {
+    "id": "pfm:light_switch",
+    "count": 6
+  },
+  "ingredients": [
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:light_gray_concrete",
+    "minecraft:light_gray_concrete",
+    "minecraft:redstone"
+  ],
+  "type": "pfm:simple_furniture"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:froggy_chair",
+    "count": 4
+  },
+  "ingredients": [
+    "minecraft:lime_concrete",
+    "minecraft:lime_concrete",
+    "minecraft:lime_concrete",
+    "minecraft:lime_concrete",
+    "minecraft:lime_concrete",
+    "minecraft:lime_concrete"
+  ],
+  "type": "pfm:simple_furniture"
+}

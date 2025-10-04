@@ -1,0 +1,14 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:cooking_table",
+    "count": 4
+  },
+  "ingredients": [
+    "cookingforblockheads:recipe_book",
+    "minecraft:white_concrete",
+    "minecraft:white_concrete",
+    "minecraft:gray_concrete"
+  ],
+  "type": "pfm:simple_furniture"
+}

@@ -1,0 +1,47 @@
+{
+  "result": {
+    "outputClass": "SimpleBedBlock",
+    "components": {
+      "pfm:color": "pink"
+    }
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:pale_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "cinderscapes:scorched",
+    "cinderscapes:umbral",
+    "fishofthieves:coconut",
+    "biomesoplenty:fir",
+    "biomesoplenty:pine",
+    "biomesoplenty:maple",
+    "biomesoplenty:redwood",
+    "biomesoplenty:mahogany",
+    "biomesoplenty:jacaranda",
+    "biomesoplenty:palm",
+    "biomesoplenty:willow",
+    "biomesoplenty:dead",
+    "biomesoplenty:magic",
+    "biomesoplenty:umbran",
+    "biomesoplenty:hellbark",
+    "biomesoplenty:empyreal"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      "minecraft:pink_bed"
+    ],
+    "variantChildren": {
+      "base": 5
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

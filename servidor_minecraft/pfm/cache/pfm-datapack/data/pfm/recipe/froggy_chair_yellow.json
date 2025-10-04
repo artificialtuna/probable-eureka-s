@@ -1,0 +1,16 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:froggy_chair_yellow",
+    "count": 4
+  },
+  "ingredients": [
+    "minecraft:yellow_concrete",
+    "minecraft:yellow_concrete",
+    "minecraft:yellow_concrete",
+    "minecraft:yellow_concrete",
+    "minecraft:yellow_concrete",
+    "minecraft:yellow_concrete"
+  ],
+  "type": "pfm:simple_furniture"
+}

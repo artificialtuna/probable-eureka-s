@@ -1,0 +1,48 @@
+{
+  "campFire": {
+    "enabled": true,
+    "detectionHeight": 10,
+    "hayDetectionHeight": 25,
+    "baseBoost": 0.3,
+    "hayBoost": 0.5,
+    "autoScaleWithHeight": true,
+    "boostCooldownTicks": 0
+  },
+  "soulFire": {
+    "enabled": true,
+    "detectionHeight": 10,
+    "hayDetectionHeight": 25,
+    "basePull": 0.3,
+    "hayPull": 0.5,
+    "autoScaleWithHeight": true,
+    "pullCooldownTicks": 0
+  },
+  "mechanics": {
+    "disableFireworks": true,
+    "enableFireworkSmoke": true,
+    "allowInitialFirework": false,
+    "initialFireworkGraceTicks": 20
+  },
+  "feedback": {
+    "enableParticles": true,
+    "enableSounds": true,
+    "soundVolume": 0.5,
+    "soundPitch": 1.0
+  },
+  "drag": {
+    "enabled": true,
+    "dragFactor": 0.92
+  },
+  "debug": {
+    "enabled": false,
+    "fireBoostHandler": true,
+    "soulFireHandler": true,
+    "fireworkSmokeHandler": true,
+    "dragHandler": true,
+    "initialFlightHandler": true,
+    "feedbackHandler": true,
+    "flightDetector": true,
+    "Accessories": true,
+    "YACL": true
+  }
+}

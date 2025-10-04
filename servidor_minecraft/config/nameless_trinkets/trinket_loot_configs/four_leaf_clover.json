@@ -1,0 +1,226 @@
+{
+  "item": "four_leaf_clover",
+  "chance": 0.0025,
+  "loot_tables": [
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/spawn_bonus_chest",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/end_city_treasure",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/simple_dungeon",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_weaponsmith",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_toolsmith",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_armorer",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_cartographer",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_mason",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_shepherd",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_butcher",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_fletcher",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_fisher",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_tannery",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_temple",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_desert_house",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_plains_house",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_taiga_house",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_snowy_house",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/village/village_savanna_house",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/abandoned_mineshaft",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/nether_bridge",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/stronghold_library",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/stronghold_crossing",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/stronghold_corridor",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/desert_pyramid",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/jungle_temple",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/jungle_temple_dispenser",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/igloo_chest",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/woodland_mansion",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/underwater_ruin_small",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/underwater_ruin_big",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/buried_treasure",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/shipwreck_map",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/shipwreck_supply",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/shipwreck_treasure",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/pillager_outpost",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/bastion_treasure",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/bastion_other",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/bastion_bridge",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/bastion_hoglin_stable",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/ancient_city",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/ancient_city_ice_box",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/ruined_portal",
+      "cachedString": null
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "gameplay/cat_morning_gift",
+      "cachedString": null
+    }
+  ]
+}
